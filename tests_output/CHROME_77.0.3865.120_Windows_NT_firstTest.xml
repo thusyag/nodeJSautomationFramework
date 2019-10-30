@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="firstTest"
+    errors="0" failures="1" hostname="" id="" package="firstTest" skipped="0"
+    tests="2" time="8.696" timestamp="">
+  
+    <testcase name="step one: navigate to google" classname="firstTest" time="3.195" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="step two: click input" classname="firstTest" time="5.501" assertions="1">  <failure message="Testing if element &lt;#main&gt; contains text: &#34;Night Watch&#34; in 1000 ms. - expected [0;32m&#34;Night Watch&#34;[0m but got: [0;31m&#34;Search modes
+All
+Images
+Videos
+News
+Maps
+More
+Settings
+Tools
+About 8,970,000 results (0.44 seconds) 
+
+
+Search Results
+Web results
+Nightwatch.js | Node.js powered End-to-End testing framework
+https://nightwatchjs.org
+Write efficient end-to-end tests in Node.js and run them against W3C WebDriver.
+What is Nightwatch? · nightwatch.json · Nightwatch Runner · Using Mocha
+nightwatchjs/nightwatch: End-to-end testing ... - GitHub
+https://github.com › nightwatchjs › nightwatch
+nightwatch javascript nodejs selenium webdriver end-to-end-testing automated-testing continuous-integration nightwatchjs. ... Automated end-to-end testing framework powered by Node.js and using W3C Webdriver (formerly Selenium). Nightwatch is a complete and integrated solution for end ...
+Selenium testing with Nightwatch | BrowserStack
+https://www.browserstack.com › automate › nightwatch
+Your guide to running Selenium Webdriver tests with Nightwatch on BrowserStack.
+Videos
+PREVIEW
+3:10
+Nightwatch: Reuniting a Missing Person with His Family ...
+A&amp;E
+YouTube - Feb 25, 2017
+PREVIEW
+5:08
+Nightwatch Nation: Stabbed in the Head (Season 1, Episode 4 ...
+A&amp;E
+YouTube - Sep 13, 2018
+PREVIEW
+2:43
+Nightwatch: The Luckiest Gunshot Victim (Season 2, Episode ...
+A&amp;E
+YouTube - Jan 11, 2016
+PREVIEW
+2:49
+Nightwatch: The Child Whisperer (Season 3, Episode 10) | A&amp;E
+A&amp;E
+YouTube - Sep 26, 2017
+PREVIEW
+3:22
+Nightwatch: Treating a Rapper to Some Southern Hospitality ...
+A&amp;E
+YouTube - Sep 26, 2017
+PREVIEW
+2:14
+Nightwatch: An Emotional Anniversary (Season 2, Episode 12 ...
+A&amp;E
+YouTube - Feb 12, 2016
+PREVIEW
+2:52
+Nightwatch: A Fleeing Driver Pulls a Gun (Season 2, Episode ...
+A&amp;E
+YouTube - Nov 16, 2015
+PREVIEW
+3:42
+Nightwatch: Wild and Crazy Calls (Season 3) | A&amp;E
+A&amp;E
+YouTube - Jul 26, 2018
+PREVIEW
+2:29
+Nightwatch: A Difficult Patient (Season 2, Episode 4) | A&amp;E
+A&amp;E
+YouTube - Dec 7, 2015
+PREVIEW
+3:28
+Nightwatch: Allergic To Stab Wounds (Season 3, Episode 1 ...
+A&amp;E
+YouTube - Sep 26, 2017
+Web results
+Automation Testing with Nightwatch JS and Cucumber - Medium
+https://medium.com › velotio-perspectives › automation-testing-with-night...
+Jun 10, 2019 - Nightwatch.js is an automated testing framework for web applications and websites, written in Node.js and using the W3C WebDriver API ...
+E2E Testing with Nightwatch: Part One - Frontend Weekly ...
+https://medium.com › front-end-weekly › e2e-testing-with-nightwatch-part...
+So what is Nightwatch? Nightwatch is an automated testing framework for web applications and websites, written in Node.js and using the W3C WebDriver API ...
+Nightwatch API
+https://nightwatch-api.netlify.com
+Nightwatch API is JavaScript (Node.js) programming interface for controlling Nightwatch.js which is an End-to-End (E2E) testing solution for browser based apps ...
+People also ask
+What is Nightwatch testing?
+
+What is end to end testing?
+
+What is Testcafe?
+
+Feedback
+Web results
+Nightwatch.js Basics and Examples | Sauce Labs
+https://saucelabs.com › blog › nightwatchjs-makes-software-test-scripts-fun...
+Nightwatch.js makes software test scripts fun and easy. Learn how to develop a set of test scripts quickly and effortlessly using Nightwatch.
+Step: Action
+End-to-End Test Automation Using Nightwatch - DZone DevOps
+https://dzone.com › articles › test-automation-using-nightwatch
+May 21, 2018 - This tutorial will show you how to use Nightwatch, an automated testing and continuous integration framework, as an end-to-end browser ...
+Node.js End-to-End Testing with Nightwatch.js - By
+https://hackernoon.com › node-js-end-to-end-testing-with-nightwatch-js-1c...
+In this article, we are going to take a look at how you can do end-to-end testing with Node.js, using Nightwatch.js, a Node.js powered end-to-end testing ...
+Searches related to nightwatch
+nightwatch testing
+nightwatch github
+nightwatch tutorial
+nightwatch vs selenium
+nightwatch tutorial for beginners
+nightwatch vs cypress
+nightwatch.js wiki
+nightwatch api testing
+Page navigation
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Next
+Footer links
+Sri LankaUduvil - From your device - Use precise location - Learn more
+HelpSend feedbackPrivacyTerms&#34;[0m">    at Object.step two: click input (D:\Files\Automation\nodejs -autamation\End-toEnd-Test\tests\firstTest.js:26:21)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
